@@ -1,4 +1,4 @@
-![Image](./images/SplashScreen.png)
+<img align="center" src="./images/SplashScreen.png" alt="Tabulexa splash screen">
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
 
