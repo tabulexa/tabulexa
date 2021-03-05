@@ -1,4 +1,4 @@
-![Image](./images/SplashScreenSmall.png)
+![Image](./images/SplashScreen.png)
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
 
