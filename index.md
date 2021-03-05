@@ -15,17 +15,17 @@ Handwritten lectures have always been popular in sciences and show a recent revi
 
 However, blackboards and whiteboards are no longer timely and they are often removed from lecture rooms. Covid-19, with a demand for online teaching, accelerates this process even more. This app provides a simple interface to write and project your handwritten notes with two design goals:
 
+![Image](./images/Overview1.png)
+
 ### (1) Decouple the presentation interface from the projection window for the audience.
 
 The main reason to decouple both windows is not the listener’s distraction due to control-buttons and flyout-menus, but it is the need to zoom in and out while writing with a digital pen. Most people seem to have a larger handwriting on a graphics tablet than on a sheet of paper. To avoid filling the complete board with just a few lines of text, it is necessary to increase the zoom factor while writing. The audience, however, should only see the complete window without changing sizes.
 
-![Image](./images/Overview1.png)
+![Image](./images/Overview2.png)
 
 ### (2) Mix live handwriting with pre-recorded notes.
 
 There are incredible educational videos with handwriting on youtube, e.g., the Khan Academy. The presentation style and the pedagogic concepts in those videos are fantastic. Unfortunately, today’s students start to expect a similar presentation quality during a lecture. Pre-recording your lectures slides can improve the artistic style and readability. In addition, it is a waste of time to prepare the layout of the text before the presentation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and to replay sections of it during the lecture - whenever it is needed.
-
-![Image](./images/Overview2.png)
 
 ## Control modes
 
