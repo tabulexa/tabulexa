@@ -25,6 +25,8 @@ The main reason to decouple both windows is not the listener’s distraction due
 
 There are incredible educational videos with handwriting on youtube, e.g., the Khan Academy. The presentation style and the pedagogic concepts in those videos are fantastic. Unfortunately, today’s students start to expect a similar presentation quality during a lecture. Pre-recording your lectures slides can improve the artistic style and readability. In addition, it is a waste of time to prepare the layout of the text before the presentation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and to replay sections of it during the lecture - whenever it is needed.
 
+![Image](./images/Overview2.png)
+
 ## Control modes
 
 The app has three control modes that can be selected on the first page.
