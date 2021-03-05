@@ -46,3 +46,11 @@ Only the projection window is observable by the audience. It will always open on
 It is helpful to chose already during the preparation of the lecture a side ratio that is close to the ratio of the projector. Each page has a permanent side ratio, but opening a projection window changes the displayed side ratio in the main window to match the ratio of the projection window. The permanent side ratio of the document reappears once the projection window is closed.
 
 ![Image](./images/ProjectionMode.png)
+
+## Links
+
+- [Microsoft's App Store (9MXZC8VJJ5W4)](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
+- Msix package from [Github](https://github.com/tabulexa/binaries)
+- Email: tabulexa@gmail.com
+
+
