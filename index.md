@@ -16,7 +16,7 @@ It helps to write on a device that is flat on a table, e.g. a 360-degree laptop,
 [![Youtube video 2 Tabulexa](https://img.youtube.com/vi/exxR4jyZmCQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/exxR4jyZmCQ)
 
  <a href="https://www.youtube.com/watch?v=6BvTS3UsN_4">
-<img src="https://img.youtube.com/vi/6BvTS3UsN_4/0.jpg" alt="Youtube video Tabulexa 1" style="width:200px;">
+<img src="https://img.youtube.com/vi/6BvTS3UsN_4/0.jpg" alt="Youtube video Tabulexa 1" style="width:100px;">
 </a> 
 
 ## Motivation:
