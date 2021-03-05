@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Tabulexa 
+
+## Digital handwriting app for presentations and teaching.
+
+The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
+
+### Requirements:
+
+- Windows 10 (version 1903 or later)
+- Touch or pen sensitive display + Digital pen
+
+It helps to write on a device that is flat on a table, e.g. a 360 degree laptop, a pen display, or a device of the Microsoft surface family.
+
+
 
 You can use the [editor on GitHub](https://github.com/tabulexa/tabulexa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
