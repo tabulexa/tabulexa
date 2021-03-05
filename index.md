@@ -1,6 +1,6 @@
 <img align="center" src="./images/SplashScreenNarrow.png" alt="Tabulexa splash screen">
 
-The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
+Tabulexa is a digital handwriting app for presentations and teaching. The app provides a simple interface for handwritten notes. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. Similar to powerpoint slides, you can group your notes on apage into blocks and display them sequentially.    
 
 You can download the app from Microsoft's App Store: [https://www.microsoft.com/store/apps/9MXZC8VJJ5W4](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) or install the msix package from Github.
 
@@ -9,7 +9,7 @@ You can download the app from Microsoft's App Store: [https://www.microsoft.com/
 - Windows 10 (version 1903 or later)
 - Touch or pen sensitive display + Digital pen
 
-It helps to write on a device that is flat on a table, e.g. a 360 degree laptop, a pen display, or a device of the Microsoft surface family.
+It helps to write on a device that is flat on a table, e.g. a 360-degree laptop, a pen display, or a device of the Microsoft Surface Family.
 
 ## Motivation:
 
@@ -28,7 +28,7 @@ The main reason to decouple both windows is not the listener’s distraction due
 
 ### (2) Mix live handwriting with pre-recorded notes.
 
-There are incredible educational videos with handwriting on youtube, e.g., the Khan Academy. The presentation style and the pedagogic concepts in those videos are fantastic. Unfortunately, today’s students start to expect a similar presentation quality during a lecture. Pre-recording your lectures slides can improve the artistic style and readability. In addition, it is a waste of time to prepare the layout of the text before the presentation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and to replay sections of it during the lecture - whenever it is needed.
+There are incredible educational videos with handwriting on youtube, e.g. the Khan Academy. The presentation style and the pedagogic concepts in those videos are fantastic. Unfortunately, today’s students start to expect a similar presentation quality during a lecture. Pre-recording your lectures slides can improve the artistic style and readability. In addition, it is a waste of time to prepare the layout of the text before the presentation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and to replay sections of it during the lecture - whenever it is needed.
 
 ## Control modes
 
