@@ -1,6 +1,8 @@
-# Tabulexa 
+![Image](./images/SplashScreen.png)
 
-### Digital handwriting app for presentations and teaching.
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+# Tabulexa 
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
 
