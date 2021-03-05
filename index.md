@@ -1,7 +1,3 @@
-![Image](./images/SplashScreen.png)
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 # Tabulexa 
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
@@ -13,7 +9,6 @@ The app provides a simple interface for handwritten lectures and presentations. 
 
 It helps to write on a device that is flat on a table, e.g. a 360 degree laptop, a pen display, or a device of the Microsoft surface family.
 
-
 ### Motivation:
 
 Handwritten lectures have always been popular in sciences and show a recent revival in other fields. Writing on a blackboard decelerates the lecturer and provides enough time for the listeners to digest the content. The students need to focus when copying the lecture notes and it forces them to follow a derivation step by step. Just watch students during a typical “death-by-powerpoint” presentation and compare it to the focused concentration during a maths lecture.
@@ -23,6 +18,8 @@ However, blackboards and whiteboards are no longer timely and they are often rem
 ### (1) Decouple the presentation interface from the projection window for the audience.
 
 The main reason to decouple both windows is not the listener’s distraction due to control-buttons and flyout-menus, but it is the need to zoom in and out while writing with a digital pen. Most people seem to have a larger handwriting on a graphics tablet than on a sheet of paper. To avoid filling the complete board with just a few lines of text, it is necessary to increase the zoom factor while writing. The audience, however, should only see the complete window without changing sizes.
+
+![Image](./images/Overview1.png)
 
 ### (2) Mix live handwriting with pre-recorded notes.
 
