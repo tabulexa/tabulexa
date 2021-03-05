@@ -2,7 +2,7 @@
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
 
-### Requirements:
+## Requirements:
 
 - Windows 10 (version 1903 or later)
 - Touch or pen sensitive display + Digital pen
@@ -42,6 +42,9 @@ Only the projection window is observable by the audience. It will always open on
 ## Side ratio of the projection window
 
 It is helpful to chose already during the preparation of the lecture a side ratio that is close to the ratio of the projector. Each page has a permanent side ratio, but opening a projection window changes the displayed side ratio in the main window to match the ratio of the projection window. The permanent side ratio of the document reappears once the projection window is closed.
+
+![Image](./images/ProjectionMode.png)
+
 
 
 
