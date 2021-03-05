@@ -49,8 +49,8 @@ It is helpful to chose already during the preparation of the lecture a side rati
 
 ## Links
 
-- [Microsoft's App Store (9MXZC8VJJ5W4)](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
-- Msix package from [Github](https://github.com/tabulexa/binaries)
+- Microsoft's App Store [(9MXZC8VJJ5W4)](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
+- Msix package on [Github](https://github.com/tabulexa/binaries)
 - Email: tabulexa@gmail.com
 
 
