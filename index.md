@@ -1,5 +1,7 @@
 ![Image](./images/SplashScreen.png)
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 # Tabulexa 
 
 ### Digital handwriting app for presentations and teaching.
