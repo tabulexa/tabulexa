@@ -2,10 +2,9 @@
 
 Tabulexa is a digital handwriting app for presentations and teaching. The app provides a simple interface for handwritten notes. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. Similar to powerpoint slides, you can group your notes on apage into blocks and display them sequentially.    
 
-You can download the app from Microsoft's App Store: [https://www.microsoft.com/store/apps/9MXZC8VJJ5W4](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
-or install the msix package from Github.
+You can download the app from Microsoft's App Store or install the msix package from Github.
 
-<button class="button-save large">Big Fat Button</button>
+[https://www.microsoft.com/store/apps/9MXZC8VJJ5W4](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4)
 
 ## Requirements:
 
