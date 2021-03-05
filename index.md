@@ -15,7 +15,7 @@ Handwritten lectures have always been popular in sciences and show a recent revi
 
 However, blackboards and whiteboards are no longer timely and they are often removed from lecture rooms. Covid-19, with a demand for online teaching, accelerates this process even more. This app provides a simple interface to write and project your handwritten notes with two design goals:
 
-![Image](./images/Overview1.png)
+![Image](./images/Overview1.png = 500x)
 
 ### (1) Decouple the presentation interface from the projection window for the audience.
 
