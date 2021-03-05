@@ -11,7 +11,9 @@ You can download the app from [Microsoft's App Store (9MXZC8VJJ5W4)](https://www
 
 It helps to write on a device that is flat on a table, e.g. a 360-degree laptop, a pen display, or a device of the Microsoft Surface Family.
 
+## Youtube videos 
 [![Youtube video 1 Tabulexa](https://img.youtube.com/vi/6BvTS3UsN_4/0.jpg)](https://www.youtube.com/watch?v=6BvTS3UsN_4)
+[![Youtube video 2 Tabulexa](https://img.youtube.com/vi/exxR4jyZmCQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/exxR4jyZmCQ)
 
 
 ## Motivation:
