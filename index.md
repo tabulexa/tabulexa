@@ -11,6 +11,8 @@ You can download the app from [Microsoft's App Store (9MXZC8VJJ5W4)](https://www
 
 It helps to write on a device that is flat on a table, e.g. a 360-degree laptop, a pen display, or a device of the Microsoft Surface Family.
 
+[Youtube 1](https://www.youtube.com/watch?v=6BvTS3UsN_4)
+
 ## Motivation:
 
 Handwritten lectures have always been popular in sciences and show a recent revival in other fields. Writing on a blackboard decelerates the lecturer and provides enough time for the listeners to digest the content. The students need to focus when copying the lecture notes and it forces them to follow a derivation step by step. Just watch students during a typical “death-by-powerpoint” presentation and compare it to the focused concentration during a maths lecture.
