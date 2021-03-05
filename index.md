@@ -1,3 +1,5 @@
+![Image](./images/SplashScreen.png)
+
 # Tabulexa 
 
 ### Digital handwriting app for presentations and teaching.
