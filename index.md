@@ -2,7 +2,10 @@
 
 Tabulexa is a digital handwriting app for presentations and teaching. The app provides a simple interface for handwritten notes. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. Similar to powerpoint slides, you can group your notes on apage into blocks and display them sequentially.    
 
-You can download the app from Microsoft's App Store: [https://www.microsoft.com/store/apps/9MXZC8VJJ5W4](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) or install the msix package from Github.
+You can download the app from Microsoft's App Store: [https://www.microsoft.com/store/apps/9MXZC8VJJ5W4](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
+or install the msix package from Github.
+
+<button class="button-save large">Big Fat Button</button>
 
 ## Requirements:
 
@@ -46,7 +49,3 @@ Only the projection window is observable by the audience. It will always open on
 It is helpful to chose already during the preparation of the lecture a side ratio that is close to the ratio of the projector. Each page has a permanent side ratio, but opening a projection window changes the displayed side ratio in the main window to match the ratio of the projection window. The permanent side ratio of the document reappears once the projection window is closed.
 
 ![Image](./images/ProjectionMode.png)
-
-### Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
