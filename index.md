@@ -1,8 +1,4 @@
-![Image](./images/SplashScreen.png)
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-# Tabulexa 
+<img align="center" src="./images/SplashScreen.png" alt="Tabulexa splash screen">
 
 The app provides a simple interface for handwritten lectures and presentations. You can either project your notes while writing to a second screen, projector, and television, or you can pre-record your handwriting and replay it during your presentation. The  
 
@@ -12,7 +8,6 @@ The app provides a simple interface for handwritten lectures and presentations. 
 - Touch or pen sensitive display + Digital pen
 
 It helps to write on a device that is flat on a table, e.g. a 360 degree laptop, a pen display, or a device of the Microsoft surface family.
-
 
 ### Motivation:
 
@@ -24,9 +19,13 @@ However, blackboards and whiteboards are no longer timely and they are often rem
 
 The main reason to decouple both windows is not the listener’s distraction due to control-buttons and flyout-menus, but it is the need to zoom in and out while writing with a digital pen. Most people seem to have a larger handwriting on a graphics tablet than on a sheet of paper. To avoid filling the complete board with just a few lines of text, it is necessary to increase the zoom factor while writing. The audience, however, should only see the complete window without changing sizes.
 
+![Image](./images/Overview1.png)
+
 ### (2) Mix live handwriting with pre-recorded notes.
 
 There are incredible educational videos with handwriting on youtube, e.g., the Khan Academy. The presentation style and the pedagogic concepts in those videos are fantastic. Unfortunately, today’s students start to expect a similar presentation quality during a lecture. Pre-recording your lectures slides can improve the artistic style and readability. In addition, it is a waste of time to prepare the layout of the text before the presentation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and to replay sections of it during the lecture - whenever it is needed.
+
+![Image](./images/Overview2.png)
 
 ## Control modes
 
