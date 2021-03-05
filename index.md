@@ -7,7 +7,8 @@ You can download the app from [Microsoft's App Store (9MXZC8VJJ5W4)](https://www
 ## Requirements:
 
 - Windows 10 (version 1903 or later)
-- Touch or pen sensitive display + Digital pen
+- Touch or pen sensitive display 
+- Digital pen
 
 It helps to write on a device that is flat on a table, e.g. a 360-degree laptop, a pen display, or a device of the Microsoft Surface Family.
 
