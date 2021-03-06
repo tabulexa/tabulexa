@@ -6,5 +6,5 @@ theme: jekyll-theme-minimal
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-Z2L8V7SEPY" # Replace this with your ID, or delete
+    tracking_id          : G-Z2L8V7SEPY  
     anonymize_ip         : true
