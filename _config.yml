@@ -1,10 +1,4 @@
 title: Tabulexa
 description: Digital handwriting app for presentations and teaching
 theme: jekyll-theme-minimal
-
-# Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : G-Z2L8V7SEPY  
-    anonymize_ip         : true
+google_analytics: G-Z2L8V7SEPY 
