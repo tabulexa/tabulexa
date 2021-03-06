@@ -1,7 +1,5 @@
 title: Tabulexa
 description: Digital handwriting app for presentations and teaching
-google_analytics: G-Z2L8V7SEPY 
-remote_theme: jekyll/minima
+google_analytics: UA-173535926-3
+theme: jekyll-theme-minimal
 
-plugins:
-- jekyll-remote-theme
