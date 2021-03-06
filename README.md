@@ -4,7 +4,6 @@ The app is available on the Microsoft app store at the following link, and we st
 
 https://www.microsoft.com/store/apps/9MXZC8VJJ5W4
 
-
 Alternatively, you can also install the app manually on Windows 10 (version 1903 or later) if you add the required certificate and use the msix-installer file. Terms and conditions are identical to the store installation. Please download the x86, x64, ARM, or ARM64 package and the corresponding certificate "Tabulexa_xxx.cer". 
 
 (1)	Install the certificate to your local machine in the certification store "Trusted Root Certification Authorities": 
@@ -23,3 +22,4 @@ Alternatively, you can also install the app manually on Windows 10 (version 1903
 	b. Click "Install"
 	c. Select a folder for your presentation documents when the app runs for the first time.
 
+You can find the description of the app at https://tabulexa.github.io/tabulexa/
