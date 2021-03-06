@@ -3,3 +3,5 @@ description: Digital handwriting app for presentations and teaching
 google_analytics: G-Z2L8V7SEPY 
 remote_theme: jekyll/minima
 
+plugins:
+- jekyll-remote-theme
