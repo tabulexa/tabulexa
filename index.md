@@ -52,6 +52,13 @@ It is helpful to chose already during the preparation of the lecture a side rati
 
 ![Image](./images/ProjectionMode.png)
 
+
+## Data formats
+
+Similar to Powerpoint, a presentation is structured in pages and blocks. You can find the corresponding data in a folder with the name of the presentation. Each page is stored in that folder as a “gif” file, and there is an “xml” file to save additional data such as the order of pages and background colors. 
+
+The “gif” files have a low resolution and I advise against using them for anything. Instead, there are two options for export on the overview page of the document. You can print your presentation with one page per slide or export it to a Powerpoint file. In the Powerpoint file, each of your blocks is converted to an image object and displayed with an “Appear” animation. 
+
 ## Links
 
 - Microsoft's App Store [(9MXZC8VJJ5W4)](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4) 
